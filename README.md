@@ -30,6 +30,7 @@ Once JDK is installed and the source code is downloaded, you're ready to compile
 ```cmd
 cd path\to\URLChecker
 javac URLChecker.java
+```
 
 
 ## Usage
