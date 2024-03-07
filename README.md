@@ -9,7 +9,7 @@ URLChecker is a Java program designed to read a list of URLs from a text file, c
 - Displays status codes in the command line (with verbose option).
 - Provides a help option for usage instructions.
 
-## Installation
+## Installation For Linux
 
 Make sure you have Java Development Kit (JDK) installed.
 
@@ -18,6 +18,19 @@ sudo apt update
 sudo apt install default-jdk
 git clone https://github.com/mr-kasim-mehar/URL-Checker.git
 ```
+
+### For Windows:
+
+1. Download and install the latest version of Java Development Kit (JDK) from the [official website](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html).
+2. Download the source code of URLChecker from the [GitHub repository](https://github.com/mr-kasim-mehar/URL-Checker.git).
+3. Extract the downloaded ZIP file to your desired location.
+
+Once JDK is installed and the source code is downloaded, you're ready to compile and run the program using the Command Prompt (CMD) or PowerShell in Windows.
+
+```cmd
+cd path\to\URLChecker
+javac URLChecker.java
+
 
 ## Usage
 
