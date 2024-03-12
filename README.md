@@ -2,12 +2,15 @@
 
 URLChecker is a Java program designed to read a list of URLs from a text file, check if they are working, and store the working URLs in another text file. It provides options for specifying the input and output file paths, enabling verbose output for displaying status codes in the command line, and displaying help information.
 
-## Features
-
+## Whats New in v1.0
+- New Banner Added (Version Code, Coded My Muhammad Qasim)
+- Coloring Scheme (Green For Wroking, Red for Not working Urls)
+- Added "-u" For checking Single Url
+- Added prefix "https://" if the URL files cannot Contain Protocol
 - Reads URLs from a text file and checks if they are working.
 - Saves the working URLs to another text file.
 - Displays status codes in the command line (with verbose option).
-- Provides a help option for usage instructions.
+- Provides a help option for usage instructions
 
 ## Installation For Linux
 
